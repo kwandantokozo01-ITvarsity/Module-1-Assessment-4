@@ -1,0 +1,20 @@
+  <style>
+            body
+            { 
+                font-family: sans-serif;
+                background-color: azure;
+            }
+            
+            table
+            {
+                width: 90%;  
+                border-collapse: collapse;
+                background-color: floralwhite;
+            }
+            
+            td
+            {
+                text-align: left
+            }
+            
+        </style>
